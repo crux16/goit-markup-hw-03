@@ -126,6 +126,7 @@ body {
     padding: 12px 24px;
 }
 .card-text{
+    margin-top: 8px;
     color:var(--seventh-color);
 }
 .section-team{
